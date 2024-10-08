@@ -11,7 +11,7 @@ At Agilematic, our mission is to empower businesses with innovative technology s
 - **AI Solutions**: Leverage artificial intelligence to gain insights, optimize processes, and make data-driven decisions.
 
 ## 🌐 Visit Us
-Check out our website for more information: Agilematic Marketing Automation
+Check out our website for more information: [Agilematic Marketing Automation](https://agilematic.com)
 
 ## 🤝 Get In Touch
 We'd love to hear from you! Feel free to reach out to us for any inquiries or collaboration opportunities.
